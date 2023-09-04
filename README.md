@@ -30,5 +30,10 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 
 ## Here are some output screenshots:
 
+<img width="1410" alt="Screenshot 2023-09-04 at 7 19 59 PM" src="https://github.com/TirthThesiya/movie-recommender-system/assets/143272792/ff7d04d2-39a1-4593-9bec-39d49ec14083">
+<img width="1410" alt="Screenshot 2023-09-04 at 7 20 11 PM" src="https://github.com/TirthThesiya/movie-recommender-system/assets/143272792/52ac8e76-75a5-401b-b2fb-cc0cf0742f08">
+<img width="1409" alt="Screenshot 2023-09-04 at 7 18 59 PM" src="https://github.com/TirthThesiya/movie-recommender-system/assets/143272792/cb7c804f-70e4-4bf2-b988-554332ed2b13">
+
+<img width="1409" alt="Screenshot 2023-09-04 at 7 18 47 PM" src="https://github.com/TirthThesiya/movie-recommender-system/assets/143272792/b07f8ca7-228e-463d-b544-dd55f8d8f36c">
 
 
